@@ -55,7 +55,7 @@
 <br><br>
 <div align=center>
 
-  ![Minkyu GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=whtkdgml3627&show_icons=true&theme=dracula&count_private=true)
+  ![Minkyu GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Minkyu3018&show_icons=true&theme=dracula&count_private=true)
   
 </div>
 </div>
