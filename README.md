@@ -56,6 +56,8 @@
 <div align=center>
 
   ![Minkyu GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Minkyu3018&show_icons=true&theme=dracula&count_private=true)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minkyu3018)](https://github.com/Minkyu3018/github-readme-stats)
   
 </div>
 </div>
