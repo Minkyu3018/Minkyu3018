@@ -1,10 +1,10 @@
 <div align=center>
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minkyu%20GitHub!&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=Minkyu's%20GitHub!&fontSize=90" />
 </div>
 <div align=center>
 	<h3>💻 Tech Stack 💻</h3>
-	<p>⭐ Platforms & Languages ⭐</p>
+	<h4>⭐ Platforms & Languages ⭐</h4>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -19,7 +19,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🌠 Sub Stack 🌠</p>
+	<h4>🌠 Sub Stack 🌠</h4>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -35,7 +35,7 @@
 </div>
 <br>
 <div align=center>
-	<p>⚒️ Tools ⚒️</p>
+	<h4>⚒️ Tools ⚒️</h4>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
